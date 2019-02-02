@@ -1,0 +1,22 @@
+[
+  {
+    "id": "timer.label",
+    "defaultMessage": "Starts in"
+  },
+  {
+    "id": "timer.box.label.days",
+    "defaultMessage": "Days"
+  },
+  {
+    "id": "timer.box.label.hours",
+    "defaultMessage": "Hours"
+  },
+  {
+    "id": "timer.box.label.minutes",
+    "defaultMessage": "Minutes"
+  },
+  {
+    "id": "timer.box.label.seconds",
+    "defaultMessage": "Seconds"
+  }
+]

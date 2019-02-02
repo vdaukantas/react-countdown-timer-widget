@@ -1,0 +1,10 @@
+.timer-container {
+    margin-top: 50px;
+}
+
+.timer-label {
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 2px;
+    margin-bottom: 8px;
+}
